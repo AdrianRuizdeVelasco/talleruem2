@@ -2,7 +2,7 @@ name: web  CI/CD
 on:
   push:
     branches:
-      - 'main'
+      - 'talleruem2'
 jobs:
   build-container:
     name: build container
